@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    color:white;
+    font-size:30px;
+    background-color:yellowgreen;
+    
+    }
+
+header a {
+    text-decoration: none;
+    border: 2px solid orange;
+    margin: 10px;
+}
+
+h1 {
+    color: yellowgreen;
+    font-size: 50px;
+    text-align: center;
+}
+
+footer p {
+    background-color: navy;
+    color: white;
+    margin: 5px;
+    font-size: 20px;
+}
+
+.production {
+    text-align: center;
+    border: 5px solid orange;
+    border-radius: 15px;
+    background-color: rgb(44, 12, 12);
+    color: yellow;
+    font-size: 40px;
+}
